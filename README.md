@@ -1,2 +1,2 @@
-# HTML5
-Final Project for HTML5 course
+# HTML5 & CSS3
+HTML5 Course & CSS3 Course
